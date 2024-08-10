@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+
+.product1,.product2,.product3,.product4
+,.product5,.product6,.product7,.product8{
+    background-color: azure;
+    border: rgba(85, 80, 80, 0.61) solid 2px;
+    float:left; 
+    margin:4px 5.5Px;
+    width:24%;
+    height:40%;
+}
+
+img{
+    width:35%;
+    height: 35%;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:30%;
+
+}
+.definition{
+    color:gray;
+    margin-left:2%;
+    margin-bottom: 2%;
+    
+}
+.price{
+    color: green;
+    margin-left:2%;
+    float:left;
+    width:fit-content;
+}
+.botton{
+    /* margin-right: 0%; */
+    margin-left:15%;
+    padding:3% 15%;
+    margin-bottom: 2%;
+    color: white;
+    background-color: blue; 
+}
+#icon{
+    border-color: blue;
+    border-width: 1%;
+    border-style: solid;
+    color: blue;
+    padding:5px;
+    margin-left:2%;
+}
+
+h3{
+    margin-left:2%;
+    margin-bottom: 2%;
+}
+h1{
+    margin-bottom: 3%;
+}
+i{
+    padding-right: 10px;
+}
+.deleted{
+    color:red;
+    text-decoration-line: line-through;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
